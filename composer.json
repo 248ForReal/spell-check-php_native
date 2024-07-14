@@ -1,0 +1,9 @@
+{
+    "require": {
+        "cwin/cwin-app": "dev-master",
+        "smalot/pdfparser": "^2.10",
+        "phpoffice/phpword": "^1.2",
+        "symfony/polyfill-intl-grapheme": "^1.30"
+    },
+    "minimum-stability": "dev"
+}
